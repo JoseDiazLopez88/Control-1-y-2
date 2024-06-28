@@ -4,10 +4,33 @@
 En este proyecto, se implementa un sistema de predicción de demanda para optimizar los niveles de inventario y evitar desabastecimientos en una empresa de ventas de insumos químicos.
 ## ii. Presentación del equipo
 1. JOSE DIAZ LOPEZ 
+2.
+3.
+4.
+5.
 ### iii. Objetivo del proyecto
 El objetivo principal del proyecto es desarrollar e implementar un sistema de predicción de demanda basado en Machine Learning, que permita a la empresa de ventas de insumos químicos optimizar sus niveles de inventario, reducir los costos asociados con el exceso o la falta de stock, y mejorar la disponibilidad de productos para incrementar la satisfacción del cliente.
 ## vi. Estructura de las carpetas
+...
+Control de aprendizaje 1 y 2
 
+├── README.md
+
+├── Documentacion
+
+│ ──├── Analisis_Problema.md
+
+│ ──├── eleccion_del_problema.md
+
+│ ──├── estimacion_del_valor_monetario.md
+
+│ ──├── propuesta_del_caso_del_negocio.md
+
+│ ──├── propuesta_del_caso_del_negocio_2.md
+   
+
+
+...
 
 
 ## v. Enlaces a la Documentación
