@@ -4,7 +4,7 @@
 En este proyecto, se implementa un sistema de predicción de demanda para optimizar los niveles de inventario y evitar desabastecimientos en una empresa de ventas de insumos químicos.
 ## ii. Presentación del equipo
 1. JOSE DIAZ LOPEZ 
-2.
+2. GUSTAVO ALEXIS FLORES FERNANDEZ
 3.
 4.
 5.
