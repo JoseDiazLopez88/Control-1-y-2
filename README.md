@@ -4,22 +4,17 @@
 En este proyecto, se implementa un sistema de predicción de demanda para optimizar los niveles de inventario y evitar desabastecimientos en una empresa de ventas de insumos químicos.
 
 ## Estructura de las carpetas
-Proyecto_Prediccion_Demanda/
-├── README.md
-├── Documentacion/
-│   ├── eleccion_del_problema.md
-│   ├── Equipo.md
-│   ├── Objetivo.md
-│   ├── Analisis_Problema.md
-│   ├── Solucion_Machine_Learning.md
-│   ├── Estimacion_Valor_Monetario.md
-│   └── Resultados.md
+Proyecto_Prediccion_Demanda
+ README.md
+ eleccion_del_problema.md
+│  
+
 
 
 ## Enlaces a la Documentación
-
-- [Eleccion del problema](./eleccion_del_problema.md)
-
+...
+- [Eleccion del problema](./Documentacion/eleccion_del_problema.md)
+...
 
 
 
