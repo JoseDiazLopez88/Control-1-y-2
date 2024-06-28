@@ -6,3 +6,6 @@ Aplicación relevante: Implementar un sistema de predicción de demanda para opt
 Categoría: Optimización de Inventarios
 Categoría	Caso de Uso	Descripción
 Optimización de Inventarios	Predicción de Demanda	Utilizar modelos de Machine Learning para predecir la demanda futura de los productos, ajustando los niveles de inventario.
+| Categoría                | Caso de Uso           | Descripción                                                                                     |
+|--------------------------|-----------------------|-------------------------------------------------------------------------------------------------|
+| Optimización de Inventarios | Predicción de Demanda | Utilizar modelos de Machine Learning para predecir la demanda futura de los productos, ajustando los niveles de inventario. |
