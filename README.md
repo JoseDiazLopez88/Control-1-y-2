@@ -11,19 +11,16 @@ El objetivo principal del proyecto es desarrollar e implementar un sistema de pr
 
 
 ## v. Enlaces a la Documentación
-...
+
 - [Eleccion del problema](./Documentacion/eleccion_del_problema.md)
-...
+-  [Análisis del Problema](./Documentacion/analisis_del_problema.md)
+-  [Estimación del Valor Monetario](./Documentacion/Estimacion_del_Valor_Monetario.md)
+-  [Propuesta del caso de negocio 1](./Documentacion/propuesta_del_caso_de_negocio.md)
+-  [Propuesta del caso de negocio 2](./Documentacion/propuesta_del_caso_de_negocio_2.md)
 
 
 
 
 
-- [Equipo del Proyecto](./Equipo.md)
-- [Objetivo del Proyecto](./Objetivo.md)
-- [Análisis del Problema](./Analisis_Problema.md)
-- [Solución de Machine Learning](./Solucion_Machine_Learning.md)
-- [Estimación del Valor Monetario](./Estimacion_Valor_Monetario.md)
-- [Resultados](./Resultados.md)
 
 
