@@ -5,7 +5,7 @@ En este proyecto, se implementa un sistema de predicción de demanda para optimi
 ## ii. Presentación del equipo
 1. JOSE DIAZ LOPEZ 
 2. GUSTAVO ALEXIS FLORES FERNANDEZ
-3.
+3. AKRAM ABDUL HERNANDEZ VASQUEZ
 4.
 5.
 ### iii. Objetivo del proyecto
