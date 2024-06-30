@@ -22,11 +22,11 @@ Control de aprendizaje 1 y 2
 
 │ ──├── 2. Analisis_Problema.md
 
-│ ──├── 3. estimacion_del_valor_monetario.md
+│ ──├── 3. propuesta_del_caso_del_negocio.md
 
-│ ──├── 4. propuesta_del_caso_del_negocio.md
+│ ──├── 4. propuesta_del_caso_del_negocio_2.md
 
-│ ──├── 5. propuesta_del_caso_del_negocio_2.md
+│ ──├── 5. estimacion_del_valor_monetario.md
    
 
 
