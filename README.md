@@ -37,9 +37,9 @@ Control de aprendizaje 1 y 2
 
 - [Eleccion del problema](./Documentacion/1.eleccion_del_problema.md)
 -  [Análisis del Problema](./Documentacion/2.analisis_del_problema.md)
--  [Estimación del Valor Monetario](./Documentacion/3.Estimacion_del_Valor_Monetario.md)
--  [Propuesta del caso de negocio 1](./Documentacion/4.propuesta_del_caso_de_negocio.md)
--  [Propuesta del caso de negocio 2](./Documentacion/5.propuesta_del_caso_de_negocio_2.md)
+-  [Propuesta del caso de negocio 1](./Documentacion/3.propuesta_del_caso_de_negocio.md)
+-  [Propuesta del caso de negocio 2](./Documentacion/4.propuesta_del_caso_de_negocio_2.md)
+-  [Estimación del Valor Monetario](./Documentacion/5.Estimacion_del_Valor_Monetario.md)
 
 
 
